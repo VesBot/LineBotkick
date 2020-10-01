@@ -28,8 +28,8 @@ class url(object):
     LINE_CHAN_QUERY_PATH            = '/CH4'
     LINE_SHOP_QUERY_PATH            = '/SHOP4'
 
-    UserAgent   = 'DESKTOP:MAC:10.10.2-YOSEMITE-x64(4.5.0)'
-    AppName     = 'DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0'
+    UserAgent   = 'Mozilla/5.0 (Linux; Android 10; RMX1971) AppleWebKit/537.36 (KHTML, like Gecko)'
+    AppName     = 'Chrome/85.0.4183.127 Mobile Safari/537.36'
     port        = 443
     systemname  = 'Farzain-zFz'
     ip          = '8.8.8.8'
