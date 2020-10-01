@@ -9,6 +9,7 @@ import time, datetime, random ,sys, re, string, os, json
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
+LINE =("rayhsav@gmail.com","Ray12345")
 client = LineClient()
 client._qrLogin("line://au/q/")
 
